@@ -548,6 +548,7 @@ public class GameSystemManager : MonoBehaviour
             btnReplay.SetActive(true);
             pnlReplay.SetActive(true);
         }
+        //refactor using loops
         else if (newState == GameStates.TickTacToePlay)
         {
             lblInfo.SetActive(true);
