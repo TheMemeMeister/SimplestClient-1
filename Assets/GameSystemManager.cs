@@ -579,23 +579,23 @@ public class GameSystemManager : MonoBehaviour
             btn32.SetActive(true);
             btn33.SetActive(true);
             if (btn11.GetComponentInChildren<Text>().text != "_")
-                btn11.GetComponent<Button>().interactable = false;
+                btn11.GetComponent<Button>().interactable = true;
             if (btn12.GetComponentInChildren<Text>().text != "_")
-                btn12.GetComponent<Button>().interactable = false;
+                btn12.GetComponent<Button>().interactable = true;
             if (btn13.GetComponentInChildren<Text>().text != "_")
-                btn13.GetComponent<Button>().interactable = false;
+                btn13.GetComponent<Button>().interactable = true;
             if (btn21.GetComponentInChildren<Text>().text != "_")
-                btn21.GetComponent<Button>().interactable = false;
+                btn21.GetComponent<Button>().interactable = true;
             if (btn22.GetComponentInChildren<Text>().text != "_")
-                btn22.GetComponent<Button>().interactable = false;
+                btn22.GetComponent<Button>().interactable = true;
             if (btn23.GetComponentInChildren<Text>().text != "_")
-                btn23.GetComponent<Button>().interactable = false;
+                btn23.GetComponent<Button>().interactable = true;
             if (btn31.GetComponentInChildren<Text>().text != "_")
-                btn31.GetComponent<Button>().interactable = false;
+                btn31.GetComponent<Button>().interactable = true;
             if (btn32.GetComponentInChildren<Text>().text != "_")
-                btn32.GetComponent<Button>().interactable = false;
+                btn32.GetComponent<Button>().interactable = true;
             if (btn33.GetComponentInChildren<Text>().text != "_")
-                btn33.GetComponent<Button>().interactable = false;
+                btn33.GetComponent<Button>().interactable = true;
         }
         else if (newState == GameStates.TickTacToeEnd)
         {
