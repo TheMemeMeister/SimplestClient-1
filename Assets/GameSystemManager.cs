@@ -110,43 +110,43 @@ public class GameSystemManager : MonoBehaviour
             {
                 txtCMsg = go;
             }
-            else if (go.name == "chk2player")
+            else if (go.name == "check42player")
             {
                 chk2player = go;
             }
-            else if (go.name == "btn11")
+            else if (go.name == "Btn11")
             {
                 btn11 = go;
             }
-            else if (go.name == "btn12")
+            else if (go.name == "Btn12")
             {
                 btn12 = go;
             }
-            else if (go.name == "btn13")
+            else if (go.name == "Btn13")
             {
                 btn13 = go;
             }
-            else if (go.name == "btn21")
+            else if (go.name == "Btn21")
             {
                 btn21 = go;
             }
-            else if (go.name == "btn22")
+            else if (go.name == "Btn22")
             {
                 btn22 = go;
             }
-            else if (go.name == "btn23")
+            else if (go.name == "Btn23")
             {
                 btn23 = go;
             }
-            else if (go.name == "btn31")
+            else if (go.name == "Btn31")
             {
                 btn31 = go;
             }
-            else if (go.name == "btn32")
+            else if (go.name == "Btn32")
             {
                 btn32 = go;
             }
-            else if (go.name == "btn33")
+            else if (go.name == "Btn33")
             {
                 btn33 = go;
             }
