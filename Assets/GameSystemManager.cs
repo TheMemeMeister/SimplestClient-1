@@ -566,9 +566,9 @@ public class GameSystemManager : MonoBehaviour
             chatBox.SetActive(true);
             pnlChat.SetActive(true);
 
-            // txtReplay.SetActive(true);
-            //btnReplay.SetActive(true);
-            //pnlReplay.SetActive(true);
+            txtReplay.SetActive(true);
+            btnReplay.SetActive(true);
+            pnlReplay.SetActive(true);
 
             btn11.SetActive(true);
             btn12.SetActive(true);
@@ -603,9 +603,9 @@ public class GameSystemManager : MonoBehaviour
             chatBox.SetActive(true);
             pnlChat.SetActive(true);
 
-            // txtReplay.SetActive(true);
-            //btnReplay.SetActive(true);
-            //pnlReplay.SetActive(true);
+            txtReplay.SetActive(true);
+            btnReplay.SetActive(true);
+            pnlReplay.SetActive(true);
             btn11.SetActive(true);
             btn12.SetActive(true);
             btn13.SetActive(true);
