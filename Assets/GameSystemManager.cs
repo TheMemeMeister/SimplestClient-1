@@ -531,13 +531,13 @@ public class GameSystemManager : MonoBehaviour
         {
             lblInfo.SetActive(true);
             //btnPlay.SetActive(true);
-            //MsgSend.SetActive(true);
+            MsgSend.SetActive(true);
             txtMsg.SetActive(true);
             btnSend.SetActive(true);
-            //PMsgSend.SetActive(true);
+            PMsgSend.SetActive(true);
             btnSendPrefixMsg.SetActive(true);
             ddlMsg.SetActive(true);
-            //C2C.SetActive(true);
+            C2C.SetActive(true);
             ddlPlayer.SetActive(true);
             btnCSend.SetActive(true);
             txtCMsg.SetActive(true);
@@ -553,16 +553,16 @@ public class GameSystemManager : MonoBehaviour
         {
             lblInfo.SetActive(true);
             //btnPlay.SetActive(true);
-            //MsgSend.SetActive(true);
-            //txtMsg.SetActive(true);
-            //btnSend.SetActive(true);
-            //PMsgSend.SetActive(true);
-            //btnSendPrefixMsg.SetActive(true);
-            //ddlMsg.SetActive(true);
-            //C2C.SetActive(true);
-            //ddlPlayer.SetActive(true);
-            //btnCSend.SetActive(true);
-            //txtCMsg.SetActive(true);
+            MsgSend.SetActive(true);
+            txtMsg.SetActive(true);
+            btnSend.SetActive(true);
+            PMsgSend.SetActive(true);
+            btnSendPrefixMsg.SetActive(true);
+            ddlMsg.SetActive(true);
+            C2C.SetActive(true);
+            ddlPlayer.SetActive(true);
+            btnCSend.SetActive(true);
+            txtCMsg.SetActive(true);
             chatBox.SetActive(true);
             pnlChat.SetActive(true);
 
