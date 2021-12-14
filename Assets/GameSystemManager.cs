@@ -276,7 +276,7 @@ public class GameSystemManager : MonoBehaviour
     public string filledValue(int player, string prevVal)
     {
         string newVal = "";
-        if (prevVal == "_")//empty box
+        if (prevVal == "-")//empty box
         {
             change = true;
             if (player == 1)
